@@ -17,17 +17,17 @@
   "SUDO": {
    "description": "SUDO NUMBERS",
    "required": true,
-   "value": "2348039607375,2349027862116"
+   "value": ""
   },
   "AUTHOR": {
    "description": "STICKER AUTHOR",
    "required": false,
-   "value": "ASTRO"
+   "value": "johnmark"
   },
   "PACKNAME": {
    "description": "STICKER PACKNAME",
    "required": false,
-   "value": "FXOP_BOT"
+   "value": "johnmark"
   },
   "AUTO_READ": {
    "description": "AUTO READ MSGS",
